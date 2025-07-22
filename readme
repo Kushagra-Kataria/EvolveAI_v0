@@ -1,0 +1,24 @@
+
+
+
+
+Method 1: Using GitHub Website (GUI)
+	1.	Go to your repository on GitHub.
+	2.	Near the top-left, click the branch dropdown menu (it usually says main or master).
+	3.	In the dropdown:
+	•	Type the new branch name you want.
+	•	GitHub will suggest: “Create branch: your-branch-name from ‘main’”.
+	4.	Click “Create branch”.
+
+That’s it! Your new branch is now created and active on GitHub.
+
+
+
+
+
+
+
+
+
+
+
